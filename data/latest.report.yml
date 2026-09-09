@@ -2,24 +2,24 @@ about:
   description: "Hunt down social media accounts by username across social networks"
   license: MIT
   homepage: https://sherlockproject.xyz
-  head: a38ba54
+  head: cbf0f50
   archived: false
   latestVersion: "v0.16.2"
   latestRelease: "v0.16.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T02:32:39Z
+  collectedAt: 2026-09-09T18:30:11Z
 timeline:
   created: 2018-12-24
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-09-08
   lastRelease: 2026-09-08
   lastPrerelease: 
 popularity:
-  star: 91146
+  star: 91174
   watcher: 1420
-  fork: 10716
+  fork: 10721
   release: 3
-  contributor: 276
+  contributor: 277
   pullRequest: 1641
   issue: 1182
 language:
@@ -35,7 +35,7 @@ recent:
     openPR: 21
     closedIssue: 3
     openIssue: 7
-    commit: 3
+    commit: 4
   last60d:
     since: 2026-07-11
     release: 1
@@ -43,7 +43,7 @@ recent:
     openPR: 31
     closedIssue: 5
     openIssue: 11
-    commit: 5
+    commit: 6
   last90d:
     since: 2026-06-11
     release: 1
@@ -51,41 +51,41 @@ recent:
     openPR: 52
     closedIssue: 5
     openIssue: 13
-    commit: 5
+    commit: 6
   last180d:
     since: 2026-03-13
     release: 1
     mergedPR: 11
-    openPR: 128
+    openPR: 127
     closedIssue: 14
     openIssue: 30
-    commit: 24
+    commit: 25
   last360d:
     since: 2025-09-14
     release: 2
-    mergedPR: 90
-    openPR: 184
+    mergedPR: 92
+    openPR: 180
     closedIssue: 61
     openIssue: 48
-    commit: 169
+    commit: 171
   last720d:
     since: 2024-09-19
     release: 2
-    mergedPR: 126
-    openPR: 189
+    mergedPR: 128
+    openPR: 185
     closedIssue: 153
     openIssue: 61
-    commit: 442
+    commit: 445
 total:
   release: 3
-  mergedPR: 745
-  openPR: 238
+  mergedPR: 747
+  openPR: 234
   closedIssue: 1081
   openIssue: 101
-  commit: 2926
+  commit: 2929
 ---
 path: /home/runner/.x-repo/github.com/sherlock-project/sherlock
-collectedAt: 2026-09-09T02:32:41Z
+collectedAt: 2026-09-09T18:30:17Z
 loc:
   Json:
     code: 3456
@@ -93,7 +93,7 @@ loc:
     blanks: 1
     files: 2
   Python:
-    code: 1725
+    code: 1721
     comments: 152
     blanks: 304
     files: 17
@@ -118,31 +118,27 @@ loc:
     blanks: 363
     files: 4
 total:
-  code: 6373
+  code: 6369
   comments: 1011
   blanks: 690
   files: 27
 ---
-date: "2026-08-24"
+date: "2026-09-07"
 repo:
   name: github.com/sherlock-project/sherlock
-  commit: 9100f9d40a3274bd46f4ce903c5c6fee6f3745bc
+  commit: a38ba54fda799cd786a2ab67a50143e1a63169e6
 scorecard:
-  version: v5.5.1-0.20260815060127-d1fab88f5463
-  commit: d1fab88f54636ff366076edfc5c239f97b3c8e66
-score: 4.5
+  version: v5.5.0
+  commit: c395761df6afe1a69e476bc60a013a94bcbc153f
+score: 4.8
 checks:
-  - name: Maintained
-    score: 2
-    reason: 3 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 2
-    details: null
   - name: Code-Review
     score: 4
-    reason: Found 5/11 approved changesets -- score normalized to 4
+    reason: Found 5/12 approved changesets -- score normalized to 4
     details: null
-  - name: Dangerous-Workflow
-    score: 10
-    reason: no dangerous workflow patterns detected
+  - name: Maintained
+    score: 5
+    reason: 7 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 5
     details: null
   - name: Security-Policy
     score: 9
@@ -152,14 +148,18 @@ checks:
       - 'Info: Found linked content: .github/SECURITY.md:1'
       - 'Warn: One or no descriptive hints of disclosure, vulnerability, and/or timelines in security policy'
       - 'Info: Found text in security policy: .github/SECURITY.md:1'
+  - name: Binary-Artifacts
+    score: 10
+    reason: no binaries found in the repo
+    details: null
   - name: Packaging
     score: -1
     reason: packaging workflow not detected
     details:
       - 'Warn: no GitHub/GitLab publishing workflow detected.'
-  - name: Binary-Artifacts
+  - name: Dangerous-Workflow
     score: 10
-    reason: no binaries found in the repo
+    reason: no dangerous workflow patterns detected
     details: null
   - name: Token-Permissions
     score: 0
@@ -186,14 +186,6 @@ checks:
     details:
       - 'Info: project has a license file: LICENSE:0'
       - 'Info: FSF or OSI recognized license: MIT License: LICENSE:0'
-  - name: Signed-Releases
-    score: -1
-    reason: no releases found
-    details: null
-  - name: Branch-Protection
-    score: -1
-    reason: 'internal error: error during branchesHandler.setup: internal error: some github tokens can''t read classic branch protection rules: https://github.com/ossf/scorecard-action/blob/main/docs/authentication/fine-grained-auth-token.md'
-    details: null
   - name: Pinned-Dependencies
     score: 0
     reason: dependency not pinned by hash detected -- score normalized to 0
@@ -230,10 +222,18 @@ checks:
       - 'Info:   0 out of   3 containerImage dependencies pinned'
       - 'Info:   0 out of   1 npmCommand dependencies pinned'
       - 'Info:   0 out of   7 pipCommand dependencies pinned'
+  - name: Signed-Releases
+    score: -1
+    reason: no releases found
+    details: null
+  - name: Branch-Protection
+    score: -1
+    reason: 'internal error: error during branchesHandler.setup: internal error: some github tokens can''t read classic branch protection rules: https://github.com/ossf/scorecard-action/blob/main/docs/authentication/fine-grained-auth-token.md'
+    details: null
   - name: SAST
     score: 0
     reason: SAST tool is not run on all commits -- score normalized to 0
     details:
       - 'Warn: 0 commits out of 29 are checked with a SAST tool'
 ---
-{"id":385056542,"author":{"login":"sdushantha","id":27065646,"node_id":"MDQ6VXNlcjI3MDY1NjQ2","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOCbcoz84W838e","tag_name":"v0.16.2","target_commitish":"master","name":"v0.16.2","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-08T20:47:56Z","updated_at":"2026-09-08T20:55:37Z","published_at":"2026-09-08T20:54:15Z","assets":[],"body":"Release created because its been a long time since the previous one and several minor changes have been made.\r\n\r\nThank you for everyone's support! :heart: ","reactions":{"total_count":3,"+1":3,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":0,"eyes":0}}
+{"id":385056542,"author":{"login":"sdushantha","id":27065646,"node_id":"MDQ6VXNlcjI3MDY1NjQ2","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOCbcoz84W838e","tag_name":"v0.16.2","target_commitish":"master","name":"v0.16.2","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-08T20:47:56Z","updated_at":"2026-09-08T20:55:37Z","published_at":"2026-09-08T20:54:15Z","assets":[],"body":"Release created because its been a long time since the previous one and several minor changes have been made.\r\n\r\nThank you for everyone's support! :heart: ","reactions":{"total_count":10,"+1":10,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":0,"eyes":0}}
