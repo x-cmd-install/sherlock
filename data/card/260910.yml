@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.16.2"
   latestRelease: "v0.16.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T02:33:38Z
+  collectedAt: 2026-09-10T15:58:08Z
 timeline:
   created: 2018-12-24
   lastCommit: 2026-09-09
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-09-08
   lastPrerelease: 
 popularity:
-  star: 91195
+  star: 91226
   watcher: 1420
-  fork: 10722
+  fork: 10724
   release: 3
   contributor: 278
-  pullRequest: 1641
+  pullRequest: 1642
   issue: 1182
 language:
   Python: 81543
@@ -32,7 +32,7 @@ recent:
     since: 2026-08-11
     release: 1
     mergedPR: 1
-    openPR: 19
+    openPR: 20
     closedIssue: 3
     openIssue: 7
     commit: 4
@@ -40,7 +40,7 @@ recent:
     since: 2026-07-12
     release: 1
     mergedPR: 2
-    openPR: 31
+    openPR: 32
     closedIssue: 5
     openIssue: 11
     commit: 6
@@ -48,7 +48,7 @@ recent:
     since: 2026-06-12
     release: 1
     mergedPR: 2
-    openPR: 52
+    openPR: 53
     closedIssue: 5
     openIssue: 13
     commit: 6
@@ -56,7 +56,7 @@ recent:
     since: 2026-03-14
     release: 1
     mergedPR: 12
-    openPR: 126
+    openPR: 127
     closedIssue: 15
     openIssue: 29
     commit: 26
@@ -64,7 +64,7 @@ recent:
     since: 2025-09-15
     release: 2
     mergedPR: 93
-    openPR: 179
+    openPR: 180
     closedIssue: 62
     openIssue: 47
     commit: 172
@@ -72,20 +72,20 @@ recent:
     since: 2024-09-20
     release: 2
     mergedPR: 129
-    openPR: 184
+    openPR: 185
     closedIssue: 152
     openIssue: 60
     commit: 447
 total:
   release: 3
   mergedPR: 748
-  openPR: 233
+  openPR: 234
   closedIssue: 1082
   openIssue: 100
   commit: 2931
 ---
 path: /home/runner/.x-repo/github.com/sherlock-project/sherlock
-collectedAt: 2026-09-10T02:33:40Z
+collectedAt: 2026-09-10T15:58:10Z
 loc:
   Json:
     code: 3456
