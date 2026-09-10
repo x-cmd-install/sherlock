@@ -22,23 +22,22 @@ x install sherlock
 
 - **Latest**: `v0.16.2` (2026-09-08)
 - **Last commit**: 2026-09-09
-- **Published**: 2026-09-08T20:54:15Z
 
 ## Popularity
 
-- **Stars**: 91,195 · **Forks**: 10,722 · **Open issues**: 1,182 · **Contributors**: 278
+- **Stars**: 91,226 · **Forks**: 10,724 · **Open issues**: 1,182 · **Contributors**: 278
 
 ## Totals (cumulative)
 
-- **Releases**: 3 · **Merged PRs**: 748 · **Open PRs**: 233 · **Closed issues**: 1082 · **Open issues**: 100 · **Commits**: 2931
+- **Releases**: 3 · **Merged PRs**: 748 · **Open PRs**: 234 · **Closed issues**: 1082 · **Open issues**: 100 · **Commits**: 2931
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 1 | 19 | 3 | 7 | 4 |
-| 90d | 2026-06-12 | 1 | 2 | 52 | 5 | 13 | 6 |
-| 360d | 2025-09-15 | 2 | 93 | 179 | 62 | 47 | 172 |
+| 30d | 2026-08-11 | 1 | 1 | 20 | 3 | 7 | 4 |
+| 90d | 2026-06-12 | 1 | 2 | 53 | 5 | 13 | 6 |
+| 360d | 2025-09-15 | 2 | 93 | 180 | 62 | 47 | 172 |
 
 ## Code size
 
@@ -67,8 +66,8 @@ Lowest-scoring checks:
 Install metadata for sherlock lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `sherlock` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/sherlock.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/sherlock.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T02:33:43Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:58:14Z._
