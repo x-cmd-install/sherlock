@@ -12,34 +12,7 @@ Hunt down social media accounts by username across social networks
 x install sherlock
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/sherlock-project/sherlock>
-- **Homepage**: <https://sherlockproject.xyz>
-- **License**: MIT
-
-## Release
-
-- **Latest**: `v0.16.2` (2026-09-08)
-- **Last commit**: 2026-09-09
-
-## Popularity
-
-- **Stars**: 91,226 · **Forks**: 10,724 · **Open issues**: 1,182 · **Contributors**: 278
-
-## Totals (cumulative)
-
-- **Releases**: 3 · **Merged PRs**: 748 · **Open PRs**: 234 · **Closed issues**: 1082 · **Open issues**: 100 · **Commits**: 2931
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 1 | 20 | 3 | 7 | 4 |
-| 90d | 2026-06-12 | 1 | 2 | 53 | 5 | 13 | 6 |
-| 360d | 2025-09-15 | 2 | 93 | 180 | 62 | 47 | 172 |
-
-## Code size
+## Code insight
 
 Total: **5,297** lines of code across **23** files in the top 5 languages.
 
@@ -61,6 +34,36 @@ Lowest-scoring checks:
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
+## Source
+
+- **Upstream**: <https://github.com/sherlock-project/sherlock>
+- **Homepage**: <https://sherlockproject.xyz>
+- **License**: MIT
+
+## Release
+
+- **Latest**: `v0.16.2` (2026-09-08)
+- **Last commit**: 2026-09-09
+
+## Popularity
+
+- **Stars**: 91,248 · **Forks**: 10,727 · **Open issues**: 1,190 · **Contributors**: 278
+
+## Totals (cumulative)
+
+- **Releases**: 3 · **Merged PRs**: 748 · **Open PRs**: 238 · **Closed issues**: 1082 · **Open issues**: 108 · **Commits**: 2931
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 1 | 1 | 20 | 3 | 13 | 4 |
+| last60d | 2026-07-13 | 1 | 2 | 36 | 5 | 19 | 6 |
+| 90d | 2026-06-13 | 1 | 2 | 56 | 5 | 21 | 6 |
+| last180d | 2026-03-15 | 1 | 12 | 131 | 15 | 37 | 26 |
+| 360d | 2025-09-16 | 2 | 93 | 183 | 62 | 55 | 172 |
+| last720d | 2024-09-21 | 2 | 129 | 189 | 151 | 68 | 447 |
+
 ## Improve this data
 
 Install metadata for sherlock lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `sherlock` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -70,4 +73,4 @@ Install metadata for sherlock lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T15:58:14Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:23:35Z._
