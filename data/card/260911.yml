@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.16.2"
   latestRelease: "v0.16.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:23:30Z
+  collectedAt: 2026-09-11T02:27:49Z
 timeline:
   created: 2018-12-24
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-08
   lastPrerelease: 
 popularity:
-  star: 91248
+  star: 91250
   watcher: 1420
   fork: 10727
   release: 3
@@ -85,7 +85,7 @@ total:
   commit: 2931
 ---
 path: /home/runner/.x-repo/github.com/sherlock-project/sherlock
-collectedAt: 2026-09-11T00:23:32Z
+collectedAt: 2026-09-11T02:27:52Z
 loc:
   Json:
     code: 3456
