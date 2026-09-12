@@ -236,4 +236,3 @@ checks:
     details:
       - 'Warn: 0 commits out of 29 are checked with a SAST tool'
 ---
-{"id":385056542,"author":{"login":"sdushantha","id":27065646,"node_id":"MDQ6VXNlcjI3MDY1NjQ2","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOCbcoz84W838e","tag_name":"v0.16.2","target_commitish":"master","name":"v0.16.2","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-08T20:47:56Z","updated_at":"2026-09-08T20:55:37Z","published_at":"2026-09-08T20:54:15Z","assets":[],"body":"Release created because its been a long time since the previous one and several minor changes have been made.\r\n\r\nThank you for everyone's support! :heart: ","reactions":{"total_count":18,"+1":16,"-1":0,"laugh":0,"hooray":2,"confused":0,"heart":0,"rocket":0,"eyes":0}}
