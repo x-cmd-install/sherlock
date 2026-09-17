@@ -26,13 +26,13 @@ x install sherlock
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.8 / 10**
+总评分: **5.3 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (4/10) — Found 5/12 approved changesets -- score normalized to 4
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -47,22 +47,22 @@ x install sherlock
 
 ## 流行度
 
-- **Star**: 91,628 · **Fork**: 10,790 · **开放 issue**: 1,190 · **贡献者**: 278
+- **Star**: 91,867 · **Fork**: 10,817 · **开放 issue**: 1,190 · **贡献者**: 278
 
 ## 累计统计
 
-- **发布数**: 3 · **已合并 PR**: 748 · **开放 PR**: 236 · **已关闭 issue**: 1082 · **开放 issue**: 108 · **提交数**: 2931
+- **发布数**: 3 · **已合并 PR**: 748 · **开放 PR**: 239 · **已关闭 issue**: 1082 · **开放 issue**: 108 · **提交数**: 2931
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 1 | 1 | 18 | 3 | 11 | 4 |
-| last60d | 2026-07-18 | 1 | 2 | 34 | 5 | 17 | 6 |
-| 90d | 2026-06-18 | 1 | 2 | 51 | 5 | 21 | 6 |
-| last180d | 2026-03-20 | 1 | 12 | 129 | 14 | 37 | 26 |
-| 360d | 2025-09-21 | 1 | 90 | 180 | 62 | 54 | 156 |
-| last720d | 2024-09-26 | 2 | 129 | 187 | 149 | 68 | 447 |
+| 30d | 2026-08-18 | 1 | 1 | 20 | 3 | 11 | 4 |
+| last60d | 2026-07-19 | 1 | 2 | 37 | 5 | 17 | 6 |
+| 90d | 2026-06-19 | 1 | 2 | 52 | 5 | 21 | 6 |
+| last180d | 2026-03-21 | 1 | 12 | 132 | 14 | 37 | 26 |
+| 360d | 2025-09-22 | 1 | 90 | 183 | 62 | 54 | 156 |
+| last720d | 2024-09-27 | 2 | 129 | 190 | 149 | 68 | 447 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ sherlock 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260916.yml` · 2026-09-16T02:48:34Z._
+_数据快照: `data/card/260917.yml` · 2026-09-17T02:53:10Z._

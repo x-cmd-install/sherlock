@@ -26,13 +26,13 @@ Total: **5,297** lines of code across **23** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.8 / 10**
+Overall score: **5.3 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (4/10) — Found 5/12 approved changesets -- score normalized to 4
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 91,628 · **Forks**: 10,790 · **Open issues**: 1,190 · **Contributors**: 278
+- **Stars**: 91,867 · **Forks**: 10,817 · **Open issues**: 1,190 · **Contributors**: 278
 
 ## Totals (cumulative)
 
-- **Releases**: 3 · **Merged PRs**: 748 · **Open PRs**: 236 · **Closed issues**: 1082 · **Open issues**: 108 · **Commits**: 2931
+- **Releases**: 3 · **Merged PRs**: 748 · **Open PRs**: 239 · **Closed issues**: 1082 · **Open issues**: 108 · **Commits**: 2931
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 1 | 1 | 18 | 3 | 11 | 4 |
-| last60d | 2026-07-18 | 1 | 2 | 34 | 5 | 17 | 6 |
-| 90d | 2026-06-18 | 1 | 2 | 51 | 5 | 21 | 6 |
-| last180d | 2026-03-20 | 1 | 12 | 129 | 14 | 37 | 26 |
-| 360d | 2025-09-21 | 1 | 90 | 180 | 62 | 54 | 156 |
-| last720d | 2024-09-26 | 2 | 129 | 187 | 149 | 68 | 447 |
+| 30d | 2026-08-18 | 1 | 1 | 20 | 3 | 11 | 4 |
+| last60d | 2026-07-19 | 1 | 2 | 37 | 5 | 17 | 6 |
+| 90d | 2026-06-19 | 1 | 2 | 52 | 5 | 21 | 6 |
+| last180d | 2026-03-21 | 1 | 12 | 132 | 14 | 37 | 26 |
+| 360d | 2025-09-22 | 1 | 90 | 183 | 62 | 54 | 156 |
+| last720d | 2024-09-27 | 2 | 129 | 190 | 149 | 68 | 447 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for sherlock lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T02:48:33Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T02:53:09Z._
