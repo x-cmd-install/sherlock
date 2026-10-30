@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 95,151 · **Forks**: 11,305 · **Open issues**: 1,197 · **Contributors**: 279
+- **Stars**: 95,219 · **Forks**: 11,322 · **Open issues**: 1,197 · **Contributors**: 279
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 0 | 0 | 10 | 1 | 3 | 0 |
-| last60d | 2026-08-30 | 1 | 2 | 27 | 3 | 12 | 5 |
-| 90d | 2026-07-31 | 1 | 3 | 45 | 6 | 19 | 5 |
-| last180d | 2026-05-02 | 1 | 4 | 91 | 10 | 34 | 8 |
-| 360d | 2025-11-03 | 1 | 20 | 156 | 42 | 50 | 35 |
-| last720d | 2024-11-08 | 2 | 116 | 194 | 137 | 69 | 406 |
+| 30d | 2026-09-30 | 0 | 0 | 9 | 1 | 3 | 0 |
+| last60d | 2026-08-31 | 1 | 2 | 26 | 3 | 12 | 5 |
+| 90d | 2026-08-01 | 1 | 2 | 45 | 6 | 19 | 5 |
+| last180d | 2026-05-03 | 1 | 4 | 90 | 10 | 34 | 8 |
+| 360d | 2025-11-04 | 1 | 20 | 156 | 42 | 50 | 35 |
+| last720d | 2024-11-09 | 2 | 116 | 194 | 137 | 69 | 406 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for sherlock lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T03:52:06Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T03:54:19Z._
