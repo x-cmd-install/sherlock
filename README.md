@@ -26,7 +26,7 @@ Total: **5,297** lines of code across **23** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.6 / 10**
+Overall score: **5.3 / 10**
 
 Lowest-scoring checks:
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 95,523 · **Forks**: 11,392 · **Open issues**: 1,195 · **Contributors**: 279
+- **Stars**: 95,664 · **Forks**: 11,413 · **Open issues**: 1,196 · **Contributors**: 279
 
 ## Totals (cumulative)
 
-- **Releases**: 3 · **Merged PRs**: 749 · **Open PRs**: 246 · **Closed issues**: 1083 · **Open issues**: 112 · **Commits**: 2934
+- **Releases**: 3 · **Merged PRs**: 749 · **Open PRs**: 247 · **Closed issues**: 1084 · **Open issues**: 112 · **Commits**: 2934
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 0 | 10 | 1 | 3 | 1 |
-| last60d | 2026-09-05 | 1 | 2 | 27 | 3 | 12 | 3 |
-| 90d | 2026-08-06 | 1 | 2 | 46 | 5 | 19 | 6 |
-| last180d | 2026-05-08 | 1 | 4 | 90 | 9 | 34 | 8 |
-| 360d | 2025-11-09 | 1 | 20 | 158 | 35 | 50 | 36 |
-| last720d | 2024-11-14 | 2 | 116 | 197 | 136 | 68 | 392 |
+| 30d | 2026-10-06 | 0 | 0 | 11 | 2 | 3 | 1 |
+| last60d | 2026-09-06 | 1 | 2 | 28 | 3 | 12 | 3 |
+| 90d | 2026-08-07 | 1 | 2 | 47 | 6 | 19 | 6 |
+| last180d | 2026-05-09 | 1 | 3 | 91 | 10 | 34 | 8 |
+| 360d | 2025-11-10 | 1 | 20 | 159 | 36 | 50 | 36 |
+| last720d | 2024-11-15 | 2 | 116 | 198 | 137 | 68 | 392 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for sherlock lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T04:22:40Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T04:39:28Z._
