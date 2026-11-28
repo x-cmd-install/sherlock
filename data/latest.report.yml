@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.16.2"
   latestRelease: "v0.16.2"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T06:10:40Z
+  collectedAt: 2026-11-28T05:51:02Z
 timeline:
   created: 2018-12-24
   lastCommit: 2026-11-01
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-08
   lastPrerelease: 
 popularity:
-  star: 118225
-  watcher: 1529
-  fork: 13486
+  star: 118650
+  watcher: 1531
+  fork: 13530
   release: 3
   contributor: 279
-  pullRequest: 1722
-  issue: 1212
+  pullRequest: 1726
+  issue: 1213
 language:
   Python: 81543
   Dockerfile: 1768
@@ -29,63 +29,63 @@ language:
 totalBytes: 83833
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 0
-    openPR: 58
+    openPR: 62
     closedIssue: 6
-    openIssue: 11
+    openIssue: 12
     commit: 1
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
     mergedPR: 0
-    openPR: 71
+    openPR: 72
     closedIssue: 7
-    openIssue: 14
+    openIssue: 15
     commit: 1
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 1
     mergedPR: 2
-    openPR: 86
+    openPR: 89
     closedIssue: 9
-    openIssue: 23
+    openIssue: 24
     commit: 6
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 1
     mergedPR: 3
-    openPR: 133
+    openPR: 136
     closedIssue: 14
-    openIssue: 40
+    openIssue: 41
     commit: 8
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 1
     mergedPR: 19
-    openPR: 210
+    openPR: 213
     closedIssue: 35
-    openIssue: 60
+    openIssue: 61
     commit: 35
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 2
     mergedPR: 116
-    openPR: 250
+    openPR: 253
     closedIssue: 138
-    openIssue: 77
+    openIssue: 78
     commit: 389
 total:
   release: 3
   mergedPR: 749
-  openPR: 300
+  openPR: 303
   closedIssue: 1089
-  openIssue: 123
+  openIssue: 124
   commit: 2934
 ---
 path: /home/runner/.x-repo/github.com/sherlock-project/sherlock
-collectedAt: 2026-11-27T06:10:43Z
+collectedAt: 2026-11-28T05:51:04Z
 loc:
   Json:
     code: 3456
@@ -236,4 +236,4 @@ checks:
       - 'Info:   0 out of   3 containerImage dependencies pinned'
       - 'Info:   0 out of   1 npmCommand dependencies pinned'
 ---
-{"id":385056542,"author":{"login":"sdushantha","id":27065646,"node_id":"MDQ6VXNlcjI3MDY1NjQ2","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOCbcoz84W838e","tag_name":"v0.16.2","target_commitish":"master","name":"v0.16.2","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-08T20:47:56Z","updated_at":"2026-09-08T20:55:37Z","published_at":"2026-09-08T20:54:15Z","assets":[],"body":"Release created because its been a long time since the previous one and several minor changes have been made.\r\n\r\nThank you for everyone's support! :heart: ","reactions":{"total_count":148,"+1":94,"-1":0,"laugh":8,"hooray":12,"confused":0,"heart":15,"rocket":9,"eyes":10}}
+{"id":385056542,"author":{"login":"sdushantha","id":27065646,"node_id":"MDQ6VXNlcjI3MDY1NjQ2","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOCbcoz84W838e","tag_name":"v0.16.2","target_commitish":"master","name":"v0.16.2","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-08T20:47:56Z","updated_at":"2026-09-08T20:55:37Z","published_at":"2026-09-08T20:54:15Z","assets":[],"body":"Release created because its been a long time since the previous one and several minor changes have been made.\r\n\r\nThank you for everyone's support! :heart: ","reactions":{"total_count":150,"+1":94,"-1":0,"laugh":8,"hooray":12,"confused":0,"heart":15,"rocket":9,"eyes":12}}
